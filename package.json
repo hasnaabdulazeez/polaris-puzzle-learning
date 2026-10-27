@@ -1,0 +1,15 @@
+{
+  "name": "polaris-puzzle-learning",
+  "version": "1.0.0",
+  "description": "Adaptive puzzle adventures that build reasoning skills for kids aged 6-12.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "npx --yes serve -l 5500 .",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}
